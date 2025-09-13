@@ -1,2 +1,15 @@
-# streamlit-chart-app
-Interactive chart builder using Streamlit and Plotly
+# 📊 Streamlit Chart Builder
+
+An interactive web app to upload datasets, build charts, and save configurations.
+
+## Features
+- Upload CSV/Excel files
+- Choose chart type, axes, and filters
+- View interactive Plotly charts
+- Save and regenerate graph configurations
+- Export data and configs
+
+## How to Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
