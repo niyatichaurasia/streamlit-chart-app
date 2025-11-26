@@ -1,4 +1,4 @@
-# 📊 Streamlit Chart Builder
+# 📊 Interactive Data Visualization Dashboard
 
 An interactive web app to upload datasets, build charts, and save configurations.
 Try it out!:
