@@ -1,6 +1,8 @@
 # 📊 Streamlit Chart Builder
 
 An interactive web app to upload datasets, build charts, and save configurations.
+Try it out!:
+https://charts-dashboard.streamlit.app/
 
 ## Features
 - Upload CSV/Excel files
